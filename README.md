@@ -1,5 +1,10 @@
 # NeoDeck
 
+## Android APP
+
+![AndroidAPP](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/App.jpg)<br><br>
+![pythonCode](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/working.png)<br><br>
+============================================================================================<br><br>
 ## 
 #Install<br>
 ```
