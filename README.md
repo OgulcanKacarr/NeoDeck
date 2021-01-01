@@ -40,6 +40,7 @@ python Neodeck.py -C startConsole  (Please read below before operating)
 
 ## Android APP
 
-- Enter Kali Local Ip
+- Enter Kali Local Ip <br>
 ![AppIp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)<br><br>
 
+[AppIssp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)[ApspIp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)<br><br>
