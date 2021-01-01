@@ -18,7 +18,7 @@ apt-get install leafpad -y
 ```
 git clone https://github.com/OgulcanKacarr/NeoDeck.git
 cd NeoDeck
-python Neodeck.py -h
+python Neodeck.py -C startConsole  (Please read below before operating)
 
 ```
 # Command and Function Settings or Change Function
@@ -29,3 +29,10 @@ python Neodeck.py -h
 ![ipSettings](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/changeFunc.png)<br><br>
 - The data coming from the android application is up to "value1-value12" respectively. You can call the functions you wrote above here.<br><br>
 ![ipSettings](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/getAppValue.png)<br><br>
+
+# work in the background
+
+- To run the application in the background, you can simply run it as: "2> / dev / null &".
+![backGround](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/background.png)<br><br>
+- To turn it off again, "ps" followed by "kill <ps (python) id>
+![ps](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/psandkill.png)<br><br>
