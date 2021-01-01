@@ -37,3 +37,9 @@ python Neodeck.py -C startConsole  (Please read below before operating)
 ![backGround](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/background.png)<br><br>
 - To turn it off again, "ps" followed by "kill <ps (python) id>
 ![ps](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/psandkill.png)<br><br>
+
+## Android APP
+
+- Enter Kali Local Ip
+![AppIp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)<br><br>
+
