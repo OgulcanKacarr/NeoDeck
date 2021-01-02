@@ -54,11 +54,8 @@ python Neodeck.py -C startConsole  (Please read below before operating)
 ![AppIp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)<br><br><br>
 
 
-![appGıf](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/app.gif)<br><br>
-![shellGıf](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/shell.gif)<br><br>
-
 <p float="left">
-  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/app.gif" width="500" />
-  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/shell.gif" width="500" /> 
+  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/app.gif" width="700" />
+  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/shell.gif" width="700" /> 
 </p>
 
