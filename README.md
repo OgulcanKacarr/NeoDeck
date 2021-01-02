@@ -45,9 +45,5 @@ python Neodeck.py -C startConsole  (Please read below before operating)
 
 
 
-<p float="left">
-  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png" width="200" />
-  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png" width="200" /> 
-</p>
 
 
