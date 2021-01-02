@@ -3,11 +3,12 @@
 # WHAT İS THE NeoDeck ?
 
 ![TR](https://github.com/OgulcanKacarr/option/blob/main/turkey.png)
-NeoDeck, yayıncıların vazgeçilmez donanım cihazı olan "Stream Deck" cihazının Kali Linux işletim sistemi için tasarlanmış bir kopyasıdır. Bu uygulama ile telefonunuzdan Kali Linux'a tuş atayabileceksiniz.Öncelikle uygulamanın telefon sürümünü indirmeyi unutmayınız.<br>
+NeoDeck, yayıncıların vazgeçilmez donanım cihazı olan "Stream Deck" cihazının Kali Linux işletim sistemi için tasarlanmış bir kopyasıdır. Bu uygulama ile telefonunuzdan Kali Linux'a tuş atayabileceksiniz. Kullanmak için; Önce telefon sürümünü indirin. Android uygulamasında sadece yerel ip adresinizi kullanmanız yeterli olacaktır. Tabi aşağıda açıklanan ayarları python kodunda yapmayı unutmayınız.
+<br>
 
 
 ![US](https://github.com/OgulcanKacarr/option/blob/main/us.png)
-NeoDeck is a replica of the "Stream Deck" device, which is the indispensable hardware device of broadcasters, designed for the Kali Linux operating system. With this application, you will be able to assign tuşfrom your phone to Kali Linux. Do not forget to download the phone version of the application first.<br><br>
+NeoDeck is a replica of the "Stream Deck" device, which is the indispensable hardware device of broadcasters, designed for the Kali Linux operating system. With this application, you will be able to assign tuşfrom your phone to Kali Linux. For use; First download the phone version. It will be sufficient to use only your local ip address in the Android application. Of course, do not forget to make the settings described below in the python code. <br><br>
 
 ============================================================================================<br><br>
 ## Android APP
