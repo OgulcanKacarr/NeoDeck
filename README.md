@@ -40,7 +40,9 @@ python Neodeck.py -C startConsole  (Please read below before operating)
 
 ## Android APP
 
-- Enter Kali Local Ip <br>
+- Enter Kali Local Ip and save.<br>
+- So now you will be able to send commands to linux.
+
 ![AppIp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)<br><br>
 
 
