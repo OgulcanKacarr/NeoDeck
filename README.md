@@ -1,12 +1,12 @@
 # NeoDeck
 
-# WHAT İS THE NeoDeck
-
-![US](https://github.com/OgulcanKacarr/option/blob/main/us.png)
-NeoDeck is a replica of the "Stream Deck" device, which is the indispensable hardware device of broadcasters, designed for the Kali Linux operating system. With this application, you will be able to assign tuşfrom your phone to Kali Linux.br><br>
+# WHAT İS THE NeoDeck ?
 
 ![TR](https://github.com/OgulcanKacarr/option/blob/main/turkey.png)
 NeoDeck, yayıncıların vazgeçilmez donanım cihazı olan "Stream Deck" cihazının Kali Linux işletim sistemi için tasarlanmış bir kopyasıdır. Bu uygulama ile telefonunuzdan Kali Linux'a tuş atayabileceksiniz.
+
+![US](https://github.com/OgulcanKacarr/option/blob/main/us.png)
+NeoDeck is a replica of the "Stream Deck" device, which is the indispensable hardware device of broadcasters, designed for the Kali Linux operating system. With this application, you will be able to assign tuşfrom your phone to Kali Linux.br><br>
 
 ============================================================================================<br><br>
 ## Android APP
