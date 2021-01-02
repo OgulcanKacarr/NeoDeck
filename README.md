@@ -57,4 +57,9 @@ python Neodeck.py -C startConsole  (Please read below before operating)
 ![appGıf](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/app.gif)<br><br>
 ![shellGıf](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/shell.gif)<br><br>
 
+<p float="left">
+  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/app.gif" width="100" />
+  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/shell.gif" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
