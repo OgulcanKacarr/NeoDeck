@@ -1,11 +1,10 @@
 # NeoDeck
 
-## Android APP
-
 # About
 
-This application is a portable analogue of the "stream deck" device, designed for Kali Linux operating system, which is the indispensable hardware assistant of broadcasters. <br> With this application, you will be able to run commands in Kali Linux with the keys you set on the phone.
 
+## Android APP
+This application is a portable analogue of the "stream deck" device, designed for Kali Linux operating system, which is the indispensable hardware assistant of broadcasters. <br> With this application, you will be able to run commands in Kali Linux with the keys you set on the phone.
 
 ![AndroidAPP](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/ApMenu.jpg)<br><br>
 ## Python Code
