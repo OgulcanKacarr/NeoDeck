@@ -51,9 +51,10 @@ python Neodeck.py -C startConsole  (Please read below before operating)
 - Enter Kali Local Ip and save.<br>
 - So now you will be able to send commands to linux.
 
-![AppIp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)<br><br>
+![AppIp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)<br><br><br>
 
 
-
+![appGıf](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/app.gif)<br><br>
+![shellGıf](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/shell.gif)<br><br>
 
 
