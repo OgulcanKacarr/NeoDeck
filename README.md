@@ -61,3 +61,5 @@ python Neodeck.py -C startConsole  (Please read below before operating)
   <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/shell.gif" width="500" /> 
 </p>
 
+Author
+email: oglcnkcr54_kcr@outlook.com
