@@ -3,12 +3,12 @@
 # WHAT İS THE NeoDeck ?
 
 ![TR](https://github.com/OgulcanKacarr/option/blob/main/turkey.png)
-NeoDeck, yayıncıların vazgeçilmez donanım cihazı olan "[StreamDeck](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/streamDeck.jpg "StreamDeck")" cihazının Kali Linux işletim sistemi için tasarlanmış bir kopyasıdır. Bu uygulama ile telefonunuzdan Kali Linux'a tuş atayabileceksiniz. Kullanmak için; Önce telefon uygulamasını indirin. Android uygulamasında sadece yerel ip adresinizi kullanmanız yeterli olacaktır. Tabi aşağıda açıklanan ayarları python kodunda yapmayı unutmayınız.
+NeoDeck, yayıncıların vazgeçilmez donanım cihazı olan "[StreamDeck](https://i0.wp.com/streamernews.tv/wp-content/uploads/2018/05/DcS21EYW4AYUfTt.jpg?fit=1200%2C675&ssl=1 "StreamDeck")" cihazının Kali Linux işletim sistemi için tasarlanmış bir kopyasıdır. Bu uygulama ile telefonunuzdan Kali Linux'a tuş atayabileceksiniz. Kullanmak için; Önce telefon uygulamasını indirin. Android uygulamasında sadece yerel ip adresinizi kullanmanız yeterli olacaktır. Tabi aşağıda açıklanan ayarları python kodunda yapmayı unutmayınız.
 <br>
 
 
 ![US](https://github.com/OgulcanKacarr/option/blob/main/us.png)
-NeoDeck is a replica of the "Stream Deck" device, which is the indispensable hardware device of broadcasters, designed for the Kali Linux operating system. With this application, you will be able to assign tuşfrom your phone to Kali Linux. For use; Download the phone app first. It will be sufficient to use only your local ip address in the Android application. Of course, do not forget to make the settings described below in the python code. <br><br>
+NeoDeck is a replica of the "[StreamDeck](https://i0.wp.com/streamernews.tv/wp-content/uploads/2018/05/DcS21EYW4AYUfTt.jpg?fit=1200%2C675&ssl=1 "StreamDeck")"  device, which is the indispensable hardware device of broadcasters, designed for the Kali Linux operating system. With this application, you will be able to assign tuşfrom your phone to Kali Linux. For use; Download the phone app first. It will be sufficient to use only your local ip address in the Android application. Of course, do not forget to make the settings described below in the python code. <br><br>
 
 
 # NeoDeck App:[Git Google Play](https://play.google.com/store/apps/details?id=com.ogulcan.neodeck "NeoDeck App")
