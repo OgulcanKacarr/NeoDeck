@@ -3,7 +3,7 @@
 # WHAT İS THE NeoDeck ?
 
 ![TR](https://github.com/OgulcanKacarr/option/blob/main/turkey.png)
-NeoDeck, yayıncıların vazgeçilmez donanım cihazı olan "[StreamDeck](https://i0.wp.com/streamernews.tv/wp-content/uploads/2018/05/DcS21EYW4AYUfTt.jpg?fit=1200%2C675&ssl=1 "StreamDeck")" cihazının Kali Linux işletim sistemi için tasarlanmış bir kopyasıdır. Bu uygulama ile telefonunuzdan Kali Linux'a tuş atayabileceksiniz. Kullanmak için; Önce telefon uygulamasını indirin. Android uygulamasında sadece yerel ip adresinizi kullanmanız yeterli olacaktır. Tabi aşağıda açıklanan ayarları python kodunda yapmayı unutmayınız.
+NeoDeck, yayıncıların vazgeçilmez donanım cihazı olan "[StreamDeck](https://i0.wp.com/streamernews.tv/wp-content/uploads/2018/05/DcS21EYW4AYUfTt.jpg?fit=1200%2C675&ssl=1 "StreamDeck")" cihazının Kali Linux işletim sistemi için tasarlanmış bir kopyasıdır. Bu uygulama ile telefonunuzdan Kali Linux'a (tuş) atayabileceksiniz. Yani telefonunuz ile terminalde kod çalıştırabilirsiniz. Kullanmak için; Önce telefon uygulamasını indirin. Android uygulamasında sadece yerel ip adresinizi girmeniz gerekmektedir. Tabi aşağıda açıklanan ayarları python kodunda yapmayı unutmayınız.
 <br>
 
 
