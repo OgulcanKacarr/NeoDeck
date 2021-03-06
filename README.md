@@ -2,12 +2,12 @@
 
 # WHAT İS THE NeoDeck ?
 
-![TR](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/Türkiye.png)
+![TR](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/Flags/Türkiye.png)
 NeoDeck, yayıncıların vazgeçilmez donanım cihazı olan "[StreamDeck](https://www.elgato.com/themes/custom/smalcode/image/products/streaming-deck/personalized_photo.jpg "StreamDeck")" cihazının Kali Linux işletim sistemi için tasarlanmış bir kopyasıdır. Bu uygulama ile telefonunuzdan Kali Linux'a (tuş) atayabileceksiniz. Yani telefonunuz ile terminalde kod çalıştırabilirsiniz. Kullanmak için; Önce telefon uygulamasını indirin. Android uygulamasında sadece yerel ip adresinizi girmeniz gerekmektedir. Tabi aşağıda açıklanan ayarları python kodunda yapmayı unutmayınız.
 <br>
 
 
-![US](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/ABD.png)
+![US](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/Flags/ABD.png)
 NeoDeck is a replica of the "[StreamDeck](https://www.elgato.com/themes/custom/smalcode/image/products/streaming-deck/personalized_photo.jpg "StreamDeck")"  device, which is the indispensable hardware device of broadcasters, designed for the Kali Linux operating system. With this application, you will be able to assign tuşfrom your phone to Kali Linux. For use; Download the phone app first. It will be sufficient to use only your local ip address in the Android application. Of course, do not forget to make the settings described below in the python code. <br><br>
 
 
@@ -15,9 +15,9 @@ NeoDeck is a replica of the "[StreamDeck](https://www.elgato.com/themes/custom/s
 
 ============================================================================================<br><br>
 ## Android APP
-![AndroidAPP](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/ApMenu.jpg)<br><br>
+![AndroidAPP](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/ApMenu.jpg)<br><br>
 ## Python Code
-![pythonCode](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/working.png)<br><br>
+![pythonCode](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/working.png)<br><br>
 ============================================================================================<br><br>
 ## 
 #Install<br>
@@ -38,30 +38,30 @@ python Neodeck.py -C startConsole  (Please read below before operating)
 # Command and Function Settings or Change Function
 
 - change your local ip address. But don't change the port number<br><br>
-![ipSettings](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/ipSettings.png)<br><br>
+![ipSettings](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/ipSettings.png)<br><br>
 - You can change these default functions or create new ones yourself.<br><br>
-![ipSettings](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/changeFunc.png)<br><br>
+![ipSettings](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/changeFunc.png)<br><br>
 - The data coming from the android application is up to "value1-value12" respectively. You can call the functions you wrote above here.<br><br>
-![ipSettings](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/getAppValue.png)<br><br>
+![ipSettings](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/getAppValue.pngg)<br><br>
 
 # work in the background
 
 - To run the application in the background, you can simply run it as: "2> / dev / null &".
-![backGround](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/background.png)<br><br>
+![backGround](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/background.png)<br><br>
 - To turn it off again, "ps" followed by "kill <ps (python) id>
-![ps](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/psandkill.png)<br><br>
+![ps](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/psandkill.png)<br><br>
 
 ## Android APP
 
 - Enter Kali Local Ip and save.<br>
 - So now you will be able to send commands to linux.
 
-![AppIp](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/LoginAppIp.png)<br><br><br>
+![AppIp](https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/LoginAppIp.png)<br><br><br>
 
 
 <p float="left">
-  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/app.gif" width="500" />
-  <img src="https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/shell.gif" width="500" /> 
+  <img src="https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/app.gif" width="500" />
+  <img src="https://github.com/OgulcanKacarr/Optional/blob/main/İcons/NeoDeckImages/shell.gif" width="500" /> 
 </p>
 
 Author
