@@ -13,12 +13,12 @@ NeoDeck is a replica of the "[StreamDeck](https://github.com/OgulcanKacarr/NeoDe
 
 # NeoDeck App: [Google Play](https://play.google.com/store/apps/details?id=com.ogulcan.neodeck "NeoDeck App")
 
-============================================================================================<br><br>
+==========================================================================<br><br>
 ## Android APP
 ![AndroidAPP](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/ApMenu.jpg)<br><br>
 ## Python Code
 ![pythonCode](https://github.com/OgulcanKacarr/NeoDeck/blob/main/Images/help.png)<br><br>
-============================================================================================<br><br>
+==========================================================================<br><br>
 ## 
 #Install<br>
 ```
